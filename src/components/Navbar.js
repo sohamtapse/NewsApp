@@ -8,7 +8,8 @@ export class Navbar extends Component {
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
               NMN
-            </a>
+            </a> 
+            {/* THis is  */}
             <button
               className="navbar-toggler"
               type="button"
