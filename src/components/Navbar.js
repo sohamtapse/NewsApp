@@ -9,13 +9,6 @@ export class Navbar extends Component {
             <a className="navbar-brand" href="/">
               NMN
             </a> 
-            {/* THis is no */}
-            {/* THis is no */}
-            {/* THis is no */}
-            {/* THis is no */}
-            {/* THis is no */}
-            {/* THis is no */}
-            {/* THis is no */}
             <button
               className="navbar-toggler"
               type="button"
